@@ -10,6 +10,8 @@ After cloning this project, To start run:
 
 and after this run:
 # 'npm i'
+and 
+# 'npm i react-custom-scrollbars'
 
 In the project directory, then you can run:
 
