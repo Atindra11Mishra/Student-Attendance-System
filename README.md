@@ -4,7 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+After cloning this project, To start run:
+
+# 'npm config set legacy-peer-deps true'
+
+and after this run:
+# 'npm i'
+
+In the project directory, then you can run:
 
 ### `npm start`
 
